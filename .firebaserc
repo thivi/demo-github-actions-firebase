@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "samplenew-f8d94"
+  },
+  "targets": {
+    "samplenew-f8d94": {
+      "hosting": {
+        "staging": [
+          "staging-sample-firebase-github"
+        ],
+        "production": [
+          "samplenew-f8d94"
+        ]
+      }
+    }
+  }
+}
